@@ -1,9 +1,8 @@
 //
-//  YSLCustomButton.m
-//  YSLFramework
+//  ZQCustomButton.m
 //
-//  Created by lvyue on 2017/12/28.
-//  Copyright © 2017年 lvyue. All rights reserved.
+//  Created by zhiqing on 2018/12/28.
+//  Copyright © 2018 zhiqing. All rights reserved.
 //
 
 #import "ZQCustomButton.h"

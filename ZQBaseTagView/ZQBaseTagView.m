@@ -1,9 +1,8 @@
 //
 //  ZQBaseTagView.m
-//  huazhu
 //
 //  Created by zhiqing on 2018/11/20.
-//  Copyright © 2018 zhenhua.shen. All rights reserved.
+//  Copyright © 2019 zhiqing. All rights reserved.
 //
 
 #import "ZQBaseTagView.h"

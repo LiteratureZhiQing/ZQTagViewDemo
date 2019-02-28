@@ -94,13 +94,13 @@
 			isa = PBXGroup;
 			children = (
 				CA1A379E2227DC96003F2F81 /* ZQBaseTagView.h */,
-				CA1A379F2227DC96003F2F81 /* ZQBaseTagViewModel.h */,
-				CA1A37A02227DC96003F2F81 /* ZQCustomButton.h */,
-				CA1A37A12227DC96003F2F81 /* NSString+string.h */,
-				CA1A37A22227DC96003F2F81 /* ZQBaseTagViewModel.m */,
 				CA1A37A32227DC96003F2F81 /* ZQBaseTagView.m */,
-				CA1A37A42227DC96003F2F81 /* ZQCustomButton.m */,
+				CA1A379F2227DC96003F2F81 /* ZQBaseTagViewModel.h */,
+				CA1A37A22227DC96003F2F81 /* ZQBaseTagViewModel.m */,
+				CA1A37A12227DC96003F2F81 /* NSString+string.h */,
 				CA1A37A52227DC96003F2F81 /* NSString+string.m */,
+				CA1A37A02227DC96003F2F81 /* ZQCustomButton.h */,
+				CA1A37A42227DC96003F2F81 /* ZQCustomButton.m */,
 			);
 			path = ZQBaseTagView;
 			sourceTree = "<group>";

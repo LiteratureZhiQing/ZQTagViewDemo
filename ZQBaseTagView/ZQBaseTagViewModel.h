@@ -1,9 +1,9 @@
 //
-//  LYBaseTagViewModel.h
-//  XPMS
+//  ZQBaseTagViewModel.h
 //
 //  Created by zhiqing on 2019/1/28.
-//  Copyright © 2019 zhenhua.shen. All rights reserved.
+//  Copyright © 2019 zhiqing. All rights reserved.
+
 //
 
 #import <UIKit/UIKit.h>

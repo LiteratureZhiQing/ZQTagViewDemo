@@ -1,9 +1,7 @@
 //
-//  YSLCustomButton.h
-//  YSLFramework
+//  ZQCustomButton.h
 //
-//  Created by lvyue on 2017/12/28.
-//  Copyright © 2017年 lvyue. All rights reserved.
+//  Created by zhiqng on 2017/12/28.
 //
 
 #import <UIKit/UIKit.h>
