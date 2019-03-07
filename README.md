@@ -6,3 +6,6 @@
 
 #Pod 使用
 pod 'ZQBaseTagView'
+
+#如有疑问请留言或者添加微信~~~zhiqingjay（备注GitHub上添加）
+
